@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Relay_3 Pin=U2-20
+Removed Pin From Net: NetName=Relay_2 Pin=U2-21
+Added Pin To Net: NetName=Relay_2 Pin=U2-20
+Added Pin To Net: NetName=Relay_3 Pin=U2-21

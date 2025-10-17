@@ -1,0 +1,13 @@
+Change Component Description : Designator=J6 Old Description=KK 254 Wire to Board Header, Single Row, Vertical, 4 Circuits New Description=KK 254 Wire to Board Header, Single Row, Vertical, 4 Circuits | Molex Incorporated 22-03-2041
+Added Component: Designator=Q2(SOT95P237X111-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BC846BLT1G/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BC846BLT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BC846BLT1G/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetD7_2 Pin=Q2-3
+Added Member To Class: ClassName=Myproject Member=Component Q2 BC846BLT1G
+Added Room: Name=Myproject

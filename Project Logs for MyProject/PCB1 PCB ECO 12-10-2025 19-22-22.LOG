@@ -1,0 +1,76 @@
+Add Component: Footprint Not Found CAPC1005X70N
+Add Component: Footprint Not Found SODFL3618X110N
+Add Component: Footprint Not Found SODFL3618X110N
+Add Component: Footprint Not Found SODFL3618X110N
+Add Component: Footprint Not Found SODFL3618X110N
+Add Component: Footprint Not Found IND_XFL4020-102MEC
+Add Component: Footprint Not Found RESC1607X60N
+Added Component: Designator=U3(SOIC254P960X420-4N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PC817X2NIP1B/Sharp+Microelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PC817X2NIP1B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-4 Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PC817X2NIP1B/Sharp+Microelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOIC254P960X420-4N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PC817X2NIP1B/Sharp+Microelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PC817X2NIP1B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-4 Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PC817X2NIP1B/Sharp+Microelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U5(SOIC254P960X420-4N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PC817X2NIP1B/Sharp+Microelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PC817X2NIP1B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-4 Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PC817X2NIP1B/Sharp+Microelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U6(SOIC254P960X420-4N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PC817X2NIP1B/Sharp+Microelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PC817X2NIP1B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-4 Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PC817X2NIP1B/Sharp+Microelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Pin To Net: Unknown Pin: Pin D8-1
+Add Pin To Net: Unknown Pin: Pin D8-2
+Add Pin To Net: Unknown Pin: Pin D11-1
+Add Pin To Net: Unknown Pin: Pin D11-2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Added Pin To Net: NetName=NetR19_1 Pin=U3-1
+Added Pin To Net: NetName=Relay_1 Pin=U3-2
+Added Pin To Net: NetName=NetR23_2 Pin=U3-3
+Added Pin To Net: NetName=+5V Pin=U3-4
+Added Pin To Net: NetName=NetR20_1 Pin=U4-1
+Added Pin To Net: NetName=Relay_2 Pin=U4-2
+Added Pin To Net: NetName=NetR24_2 Pin=U4-3
+Added Pin To Net: NetName=+5V Pin=U4-4
+Added Pin To Net: NetName=NetR21_1 Pin=U5-1
+Added Pin To Net: NetName=Relay_3 Pin=U5-2
+Added Pin To Net: NetName=NetR25_2 Pin=U5-3
+Added Pin To Net: NetName=+5V Pin=U5-4
+Added Pin To Net: NetName=NetR22_1 Pin=U6-1
+Added Pin To Net: NetName=Relay_4 Pin=U6-2
+Added Pin To Net: NetName=NetR26_2 Pin=U6-3
+Added Pin To Net: NetName=+5V Pin=U6-4
+Add Class Member: Failed to add class member : Component C3 CL05B103KB5NNNC
+Add Class Member: Failed to add class member : Component D6 1N4007FLTR
+Add Class Member: Failed to add class member : Component D7 1N4007FLTR
+Add Class Member: Failed to add class member : Component D8 1N4007FLTR
+Add Class Member: Failed to add class member : Component D11 1N4007FLTR
+Add Class Member: Failed to add class member : Component L1 XFL4020-102MEC
+Add Class Member: Failed to add class member : Component R14 RC0603FR-071ML
+Added Member To Class: ClassName=Myproject Member=Component U3 PC817X2NIP1B
+Added Member To Class: ClassName=Myproject Member=Component U4 PC817X2NIP1B
+Added Member To Class: ClassName=Myproject Member=Component U5 PC817X2NIP1B
+Added Member To Class: ClassName=Myproject Member=Component U6 PC817X2NIP1B

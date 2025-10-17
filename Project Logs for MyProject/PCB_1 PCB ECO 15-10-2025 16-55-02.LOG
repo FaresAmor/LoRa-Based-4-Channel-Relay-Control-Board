@@ -1,0 +1,99 @@
+Removed Pin From Net: NetName=CE Pin=R13-1
+Removed Pin From Net: NetName=CE Pin=U2-5
+Added Component: Designator=C14(CAPC1005X55N)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/SEMS/SEMS-S-A0008384515/SEMS-S-A0008872905-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/SEMS/SEMS-S-A0008384515/SEMS-S-A0008872905-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.samsungsem.com/kr/support/product-search/mlcc/CL05A105KL5NRNC.jsp?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.samsungsem.com/kr/support/product-search/mlcc/CL05A105KL5NRNC.jsp?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-609 Code"; Value = "e3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C307413"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL05A105KL5NRNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multilayer"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Shape"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.33, 10=0.212, 50=0.149, 100=0.1202, 500=0.08934, 1000=0.07818, 2500=0.07446, 5000=0.06887 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated DC Voltage (URdc)"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "469958"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1276-6796-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Characteristics Code"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Finish"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Wraparound"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance  (fill in as +-)"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (fill in as +-)"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=R33(RESC1005X37N)
+Add component (AddParameter): Name = "Additional Feature"; Value = "LASER TRIMMABLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/YAGO/YAGO-S-A0003597364/YAGO-S-A0003597364-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/YAGO/YAGO-S-A0003597364/YAGO-S-A0003597364-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/12656/pyu-ac-51-rohs-l-2-12656634.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/12656/pyu-ac-51-rohs-l-2-12656634.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-609 Code"; Value = "e3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C144807"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Height"; Value = "0.32mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Shape"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Style"; Value = "SMTMeter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Width"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.1, 10=0.019, 50=0.0116, 100=0.0095, 500=0.00638, 1000=0.00544, 5000=0.00391 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Standard"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "FIXED RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "1122213"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "YAG3436CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "METAL GLAZE/THICK FILM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Finish"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Wraparound"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=S3(SW_SKRPABE010)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SKRPABE010/ALPS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC part number"; Value = "C115360"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ALPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SKRPABE010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SKRPABE010/ALPS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=CE Pin=C14-2
+Added Pin To Net: NetName=CE Pin=R33-1
+Added Pin To Net: NetName=+3V3 Pin=R33-2
+Added Pin To Net: NetName=GND Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=CE Pin=S3-3
+Added Pin To Net: NetName=CE Pin=S3-4
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=U2-5
+Added Net: Name=NetR13_1
+Added Member To Class: ClassName=Myproject Member=Component C14 1uF, 35V
+Added Member To Class: ClassName=Myproject Member=Component R33 10K
+Added Member To Class: ClassName=Myproject Member=Component S3 SKRPABE010

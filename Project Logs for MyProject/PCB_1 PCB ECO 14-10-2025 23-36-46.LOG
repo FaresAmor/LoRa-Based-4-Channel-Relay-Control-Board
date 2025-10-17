@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Relay_1 Pin=R13-1
+Removed Pin From Net: NetName=Relay_1 Pin=U2-5
+Removed Pin From Net: NetName=CE Pin=U2-13
+Change Component Description : Designator=J6 Old Description=KK 254 Wire to Board Header, Single Row, Vertical, 4 Circuits New Description=KK 254 Wire to Board Header, Single Row, Vertical, 4 Circuits | Molex Incorporated 22-03-2041
+Added Pin To Net: NetName=CE Pin=R13-1
+Added Pin To Net: NetName=CE Pin=U2-5
+Added Pin To Net: NetName=Relay_1 Pin=U2-13
