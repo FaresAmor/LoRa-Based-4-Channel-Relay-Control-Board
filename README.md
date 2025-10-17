@@ -56,7 +56,7 @@ Designed entirely with **Altium Designer**, this board offers **robust connectiv
 ## Demo  
 Below is a preview of the PCB design in Altium Designer:
 
-![Demo](https://github.com/FaresAmor/4CH-RELAY-LORA-ESP32C3-PCB/blob/main/demo.gif)
+![Demo](https://github.com/FaresAmor/LoRa-Based-4-Channel-Relay-Control-Board/blob/main/4channel_relay.gif)
 
 ---
 
