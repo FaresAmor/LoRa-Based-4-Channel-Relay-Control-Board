@@ -46,10 +46,10 @@ Designed entirely with **Altium Designer**, this board offers **robust connectiv
 ---
 
 ## TOP VIEW  
-![TOP View](https://github.com/FaresAmor/4CH-RELAY-LORA-ESP32C3-PCB/blob/main/TOP.png)
+![TOP View](https://github.com/FaresAmor/LoRa-Based-4-Channel-Relay-Control-Board/blob/main/TOP.png)
 
 ## BOTTOM VIEW  
-![BOTTOM View](https://github.com/FaresAmor/4CH-RELAY-LORA-ESP32C3-PCB/blob/main/BOTTOM.png)
+![BOTTOM View](https://github.com/FaresAmor/LoRa-Based-4-Channel-Relay-Control-Board/blob/main/BOTTOM.png)
 
 ---
 
